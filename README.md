@@ -41,15 +41,4 @@ Functional Directions
 7. Drag and drop of tasks is enabled between lanes  
 4. Start modifying the code. The browser should pick up the changes.
 
-## Advanced Commands
-
-Beyond development, the boilerplate supports other tasks listed below:
-
-* `npm run build` - Generates a production build below `build/`. See the [Building with Webpack](http://survivejs.com/webpack/building-with-webpack/) part for more.
-* `npm run deploy` - Deploys the contents of the `build/` directory below the **gh-pages** branch.
-* `npm run test` - Runs `tests/` through Karma/Phantom/Mocha once.
-* `npm run test:tdd` - Runs `tests/` in a TDD mode (watches for changes and rebuilds).
-* `npm run test:lint` - Runs code through ESLint to spot code quality issues.
-* `npm run stats` - Generates Webpack build statistics. See the [Analyzing Build Statistics](http://survivejs.com/webpack/building-with-webpack/analyzing-build-statistics/) chapter.
-
 ## Book applied to the base repository by Dennis G. Davis
