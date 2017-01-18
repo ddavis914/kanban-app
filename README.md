@@ -5,20 +5,21 @@
 See [SurviveJS - React](http://survivejs.com/react/introduction/) for the book.
 ---
 ## Pre-requisites
-Web browser, node.js, git installed on the local computer.
+
+   Web browser, node.js, git installed on the local computer.
 ---
 ## Getting Started - on Windows 10
 
 1. Create a parent working directory on the local computer and navigate 'cd' to it
 2. From the parent directory execute:
 > git clone https://github.com/ddavis914/kanban-app.git kanban-app
-..1 There were plenty of deprecation warnings - but no errors
+  * There were plenty of deprecation warnings - but no errors
 2. When it finishes cd to the new kanban-app directory
 3. From the kanban-app directory run:
 
 > npm start
 
-..1 If no other server is running on port 8080 you should see:
+  * If no other server is running on port 8080 you should see:
 ```
 > react-boilerplate@2.5.6 start Drive:\Directories\kanban-app
 > webpack-dev-server
@@ -31,7 +32,7 @@ Child html-webpack-plugin for "index.html":
 
 webpack: bundle is now VALID.
 ```
-..1 Where Drive:\Directories = the hdd/parent driectory from which step 1 was applied
+  * Where Drive:\Directories = the hdd/parent driectory from which step 1 was applied
 4. Open a web browser and navigate to:
 http://localhost:8080/index.html
 
